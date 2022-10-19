@@ -1,0 +1,9 @@
+breed1|category1|personality1|purpose1|size1|keyword1|1
+breed2|category2|personality2|purpose2|size2|keyword2|2
+breed3|category3|personality3|purpose3|size3|keyword3|3
+breed4|category4|personality4|purpose4|size4|keyword4|4
+breed5|category5|personality5|purpose5|size5|keyword5|5
+breed6|category6|personality6|purpose6|size6|keyword6|6
+breed7|category7|personality7|purpose7|size7|keyword7|7
+breed8|category8|personality8|purpose8|size8|keyword8|8
+breed9|category9|personality9|purpose9|size9|keyword9|9
